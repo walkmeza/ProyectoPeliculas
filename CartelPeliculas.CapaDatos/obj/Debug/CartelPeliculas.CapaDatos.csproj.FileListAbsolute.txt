@@ -1,0 +1,11 @@
+C:\Users\walkin.meza\source\PruebaGo\CartelPeliculas\CartelPeliculas.CapaDatos\bin\Debug\CartelPeliculas.CapaDatos.dll
+C:\Users\walkin.meza\source\PruebaGo\CartelPeliculas\CartelPeliculas.CapaDatos\bin\Debug\CartelPeliculas.CapaDatos.pdb
+C:\Users\walkin.meza\source\PruebaGo\CartelPeliculas\CartelPeliculas.CapaDatos\bin\Debug\CartelPeliculas.Entidades.dll
+C:\Users\walkin.meza\source\PruebaGo\CartelPeliculas\CartelPeliculas.CapaDatos\bin\Debug\Newtonsoft.Json.dll
+C:\Users\walkin.meza\source\PruebaGo\CartelPeliculas\CartelPeliculas.CapaDatos\bin\Debug\CartelPeliculas.Entidades.pdb
+C:\Users\walkin.meza\source\PruebaGo\CartelPeliculas\CartelPeliculas.CapaDatos\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\walkin.meza\source\PruebaGo\CartelPeliculas\CartelPeliculas.CapaDatos\bin\Debug\Newtonsoft.Json.xml
+C:\Users\walkin.meza\source\PruebaGo\CartelPeliculas\CartelPeliculas.CapaDatos\obj\Debug\CartelPeliculas.CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\walkin.meza\source\PruebaGo\CartelPeliculas\CartelPeliculas.CapaDatos\obj\Debug\CartelPeliculas.CapaDatos.csproj.CopyComplete
+C:\Users\walkin.meza\source\PruebaGo\CartelPeliculas\CartelPeliculas.CapaDatos\obj\Debug\CartelPeliculas.CapaDatos.dll
+C:\Users\walkin.meza\source\PruebaGo\CartelPeliculas\CartelPeliculas.CapaDatos\obj\Debug\CartelPeliculas.CapaDatos.pdb

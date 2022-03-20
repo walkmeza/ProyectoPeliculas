@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CartelPeliculas.MVC", "CartelPeliculas.MVC\CartelPeliculas.MVC.csproj", "{8027E6E0-D253-4070-9105-05F37303AFC8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CartelPeliculas.CapaNegocio", "CartelPeliculas.CapaNegocio\CartelPeliculas.CapaNegocio.csproj", "{FE75D981-8F51-4F0E-8F61-54FB0777D549}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CartelPeliculas.CapaDatos", "CartelPeliculas.CapaDatos\CartelPeliculas.CapaDatos.csproj", "{8EA380E9-6F16-482F-ACB7-CB5CF5CC0DFE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CartelPeliculas.Entidades", "CartelPeliculas.Entidades\CartelPeliculas.Entidades.csproj", "{A66F2AB9-ECCA-4CE7-9CB3-98BFE80C740B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CartelPeliculas.WebAPI", "CartelPeliculas.WebAPI\CartelPeliculas.WebAPI.csproj", "{EA828C85-6D3F-4E85-B4CF-ACE87430C739}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8027E6E0-D253-4070-9105-05F37303AFC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8027E6E0-D253-4070-9105-05F37303AFC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8027E6E0-D253-4070-9105-05F37303AFC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8027E6E0-D253-4070-9105-05F37303AFC8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE75D981-8F51-4F0E-8F61-54FB0777D549}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE75D981-8F51-4F0E-8F61-54FB0777D549}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE75D981-8F51-4F0E-8F61-54FB0777D549}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE75D981-8F51-4F0E-8F61-54FB0777D549}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8EA380E9-6F16-482F-ACB7-CB5CF5CC0DFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EA380E9-6F16-482F-ACB7-CB5CF5CC0DFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EA380E9-6F16-482F-ACB7-CB5CF5CC0DFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EA380E9-6F16-482F-ACB7-CB5CF5CC0DFE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A66F2AB9-ECCA-4CE7-9CB3-98BFE80C740B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A66F2AB9-ECCA-4CE7-9CB3-98BFE80C740B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A66F2AB9-ECCA-4CE7-9CB3-98BFE80C740B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A66F2AB9-ECCA-4CE7-9CB3-98BFE80C740B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA828C85-6D3F-4E85-B4CF-ACE87430C739}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA828C85-6D3F-4E85-B4CF-ACE87430C739}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA828C85-6D3F-4E85-B4CF-ACE87430C739}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA828C85-6D3F-4E85-B4CF-ACE87430C739}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D922628E-344D-42B6-96E7-4AA324D7C8D0}
+	EndGlobalSection
+EndGlobal

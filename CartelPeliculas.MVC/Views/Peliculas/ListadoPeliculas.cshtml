@@ -1,0 +1,29 @@
+﻿@model CartelPeliculas.MVC.Models.PeliculasModel
+@{
+    ViewBag.Title = "Home Page";
+}
+
+<div style="background-color:#48494B">
+    <h1 style="text-align:center; color:aliceblue">@Model.TituloCriterio</h1>
+</div>
+
+@for (int i = 0; i < Model.ListaPeliculas.Count() - 1; i = i + 4)
+{
+    <div class="row">
+        @for (int j = 0; j < 4; j++)
+        {
+            <div class="col-md-3">
+                <a href="../Home/BuscarDetalle?idPelicula=@Model.ListaPeliculas.ElementAt(i + j).id"><img src="https://image.tmdb.org/t/p/w185@(Model.ListaPeliculas.ElementAt(i + j).poster_path)" height="230" class="center-block" title="@Model.ListaPeliculas.ElementAt(i + j).title" /></a>
+                @if (Model.TituloCriterio == "Mejor calificadas")
+                {
+                    <p style="color: white; text-align: center">@Model.ListaPeliculas.ElementAt(i + j).vote_average / @Model.ListaPeliculas.ElementAt(i + j).vote_count votos</p>
+                }
+                else if (Model.TituloCriterio == "Más populares")
+                {
+                    <p style="color: white; text-align: center">Popularidad: @Model.ListaPeliculas.ElementAt(i + j).popularity</p>
+                }
+            </div>
+        }
+    </div>
+    <div class="row" style="height:20px"></div>
+}

@@ -1,0 +1,6 @@
+C:\Users\walkin.meza\source\PruebaGo\CartelPeliculas\CartelPeliculas.Entidades\bin\Debug\CartelPeliculas.Entidades.dll
+C:\Users\walkin.meza\source\PruebaGo\CartelPeliculas\CartelPeliculas.Entidades\bin\Debug\CartelPeliculas.Entidades.pdb
+C:\Users\walkin.meza\source\PruebaGo\CartelPeliculas\CartelPeliculas.Entidades\obj\Debug\CartelPeliculas.Entidades.csprojAssemblyReference.cache
+C:\Users\walkin.meza\source\PruebaGo\CartelPeliculas\CartelPeliculas.Entidades\obj\Debug\CartelPeliculas.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\walkin.meza\source\PruebaGo\CartelPeliculas\CartelPeliculas.Entidades\obj\Debug\CartelPeliculas.Entidades.dll
+C:\Users\walkin.meza\source\PruebaGo\CartelPeliculas\CartelPeliculas.Entidades\obj\Debug\CartelPeliculas.Entidades.pdb
